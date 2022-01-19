@@ -1,0 +1,111 @@
+// variables
+$first: #6f418a;
+$second: #4a2c5c;
+$third: #3f264e;
+$fourth: #341d42;
+$fifth: #2b1638;
+$sixth: #1b0b25;
+$seventh: #150420;
+body {
+  overflow: hidden;
+}
+.App {
+  background-color: #eee;
+  position: relative;
+  overflow: hidden;
+}
+#scroller {
+  position: fixed;
+  z-index: 5;
+  display: block !important;
+  .nav-items {
+    .nav-item {
+      color: red;
+      font-size: 2rem;
+      font-weight: 800;
+    }
+  }
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  color: inherit;
+  margin-top: 0.2rem;
+}
+#bg-sq1 {
+  height: 1460px;
+  width: 1800px;
+  background: linear-gradient($fifth, $third);
+  position: absolute;
+  margin-top: 3rem;
+  z-index: 0;
+  transform: rotate(6deg);
+  margin-left: -9rem;
+  border-radius: 1rem;
+}
+#bg-sq2 {
+  height: 940px;
+  width: 1800px;
+  background: linear-gradient($third, $second);
+  position: absolute;
+  top: 155rem;
+  z-index: 0;
+  transform: rotate(6deg);
+  margin-left: -9rem;
+  border-radius: 1rem;
+}
+
+@media only screen and (max-width: 766px) {
+  #bg-sq1 {
+    height: 1770px;
+    margin-top: 15rem !important;
+  }
+  #bg-sq2 {
+    top: 230rem;
+    height: 1350px;
+    width: 1200px;
+  }
+}
+
+#scroller {
+  display: none;
+}
+
+ul#scroller li:active a {
+  font-size: 1.8rem !important;
+  transition: 0.5s;
+}
+
+.parallax {
+  /* background-image: url("images/bg.jpg"); */
+
+  height: auto;
+  width: 100%;
+
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.elem {
+  margin: 0 0;
+  position: relative;
+}
+
+.social-buttons {
+  text-align: center;
+  padding: 6rem 1rem 3rem 1rem;
+}
+
+.social-btn {
+  padding: 0 3rem;
+  display: inline-block;
+}

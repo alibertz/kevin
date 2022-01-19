@@ -1,0 +1,137 @@
+.footer {
+  background-color: #2b1638;
+  margin-bottom: -10px;
+  padding-bottom: -20px;
+  margin: 0 auto;
+  justify-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  min-height: 300px;
+  display: -ms-grid;
+  display: grid;
+}
+
+#footer-eml {
+  color: white;
+  letter-spacing: 0.2rem;
+  padding: 1rem 0 2rem 0;
+  font-size: 1.5rem;
+}
+
+#footer-tagline {
+  color: white;
+  text-align: center;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 200;
+  margin-bottom: 0.5rem;
+  line-height: 1.8rem;
+}
+
+.resume-btn-wrap {
+  border-radius: 12px;
+  max-width: 250px;
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(277deg, #5a3f69, #cc49d6, #6e2dff);
+  background-size: 600% 600%;
+  -webkit-animation: gradient-animate 8s ease infinite;
+  animation: gradient-animate 8s ease infinite;
+  padding: 5px;
+  margin-bottom: 15rem;
+  margin: 0 auto;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+@-webkit-keyframes gradient-animate {
+  0% {
+    background-position: 0% 96%;
+  }
+  50% {
+    background-position: 100% 5%;
+  }
+  100% {
+    background-position: 0% 96%;
+  }
+}
+
+@keyframes gradient-animate {
+  0% {
+    background-position: 0% 96%;
+  }
+  50% {
+    background-position: 100% 5%;
+  }
+  100% {
+    background-position: 0% 96%;
+  }
+}
+
+.resume-btn {
+  font-weight: 500;
+  letter-spacing: 0.08rem;
+  background-color: #2f1d3a;
+  border-radius: 8px;
+  color: white;
+  padding: 1rem 2rem;
+  white-space: nowrap;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.resume-btn-link:hover,
+.resume-btn-wrap:hover {
+  text-decoration: none;
+  cursor: pointer;
+  background: linear-gradient(300deg, #8e66a3, #f676ff, #4c2dff);
+  background-size: 600% 600%;
+  -webkit-animation: gradient-animate 3s ease infinite;
+  animation: gradient-animate 3s ease infinite;
+}
+
+@-webkit-keyframes gradient-animate-hover {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes gradient-animate-hover {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@media only screen and (min-width: 767px) {
+  #footer-eml {
+    letter-spacing: 0.25rem;
+    font-size: 2.25rem;
+  }
+  #footer-tagline {
+    color: white;
+    text-align: center;
+    letter-spacing: 0.75rem;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 200;
+    margin-bottom: 1rem;
+  }
+}
+/*# sourceMappingURL=Footer.css.map */
