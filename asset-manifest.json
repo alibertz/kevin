@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kevin/static/css/main.8dba88a3.css",
+    "main.css": "/kevin/static/css/main.e10bff88.css",
     "main.js": "/kevin/static/js/main.8654f6d2.js",
     "static/media/artistwebsite.PNG": "/kevin/static/media/artistwebsite.8331e9647ffe5602a9ee.PNG",
     "static/media/bostonsdeals.PNG": "/kevin/static/media/bostonsdeals.45963826436e7b4c5759.PNG",
@@ -16,11 +16,11 @@
     "static/media/mongodb.png": "/kevin/static/media/mongodb.c2e580440ebd139cc1e0.png",
     "static/media/expressjs-icon.png": "/kevin/static/media/expressjs-icon.967f19e53084fc186520.png",
     "index.html": "/kevin/index.html",
-    "main.8dba88a3.css.map": "/kevin/static/css/main.8dba88a3.css.map",
+    "main.e10bff88.css.map": "/kevin/static/css/main.e10bff88.css.map",
     "main.8654f6d2.js.map": "/kevin/static/js/main.8654f6d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dba88a3.css",
+    "static/css/main.e10bff88.css",
     "static/js/main.8654f6d2.js"
   ]
 }
