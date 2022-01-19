@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kevin/static/css/main.9fa08c51.css",
+    "main.js": "/kevin/static/js/main.1d66349e.js",
+    "static/media/artistwebsite.PNG": "/kevin/static/media/artistwebsite.8331e9647ffe5602a9ee.PNG",
+    "static/media/bostonsdeals.PNG": "/kevin/static/media/bostonsdeals.45963826436e7b4c5759.PNG",
+    "static/media/weatherapp.PNG": "/kevin/static/media/weatherapp.0c854f433621198b70fc.PNG",
+    "static/media/wordpress-icon.png": "/kevin/static/media/wordpress-icon.cff77debcb65bc004c50.png",
+    "static/media/gatsbyjs-icon.png": "/kevin/static/media/gatsbyjs-icon.18e1beb18f5f99a8f4a5.png",
+    "static/media/postgresql.png": "/kevin/static/media/postgresql.cc58c30d3784f081dc2d.png",
+    "static/media/redux.png": "/kevin/static/media/redux.46e8618ce89398c3059c.png",
+    "static/media/python.png": "/kevin/static/media/python.9944a9d0a870d0c1ff80.png",
+    "static/media/gitlab.png": "/kevin/static/media/gitlab.e926b749d9aa0c133a1b.png",
+    "static/media/GitHub-Mark-Light-64px.png": "/kevin/static/media/GitHub-Mark-Light-64px.b983e5a8a95d734ea626.png",
+    "static/media/salesforce.png": "/kevin/static/media/salesforce.4d3e62cb7b7350c20b5c.png",
+    "static/media/mongodb.png": "/kevin/static/media/mongodb.c2e580440ebd139cc1e0.png",
+    "static/media/expressjs-icon.png": "/kevin/static/media/expressjs-icon.967f19e53084fc186520.png",
+    "index.html": "/kevin/index.html",
+    "main.9fa08c51.css.map": "/kevin/static/css/main.9fa08c51.css.map",
+    "main.1d66349e.js.map": "/kevin/static/js/main.1d66349e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fa08c51.css",
+    "static/js/main.1d66349e.js"
+  ]
+}
