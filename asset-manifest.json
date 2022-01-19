@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kevin/static/css/main.7cf83d12.css",
-    "main.js": "/kevin/static/js/main.bfdcd3f2.js",
+    "main.css": "/kevin/static/css/main.fbcd4603.css",
+    "main.js": "/kevin/static/js/main.36b5e3ae.js",
     "static/media/artistwebsite.PNG": "/kevin/static/media/artistwebsite.8331e9647ffe5602a9ee.PNG",
     "static/media/bostonsdeals.PNG": "/kevin/static/media/bostonsdeals.45963826436e7b4c5759.PNG",
     "static/media/weatherapp.PNG": "/kevin/static/media/weatherapp.0c854f433621198b70fc.PNG",
@@ -16,11 +16,11 @@
     "static/media/mongodb.png": "/kevin/static/media/mongodb.c2e580440ebd139cc1e0.png",
     "static/media/expressjs-icon.png": "/kevin/static/media/expressjs-icon.967f19e53084fc186520.png",
     "index.html": "/kevin/index.html",
-    "main.7cf83d12.css.map": "/kevin/static/css/main.7cf83d12.css.map",
-    "main.bfdcd3f2.js.map": "/kevin/static/js/main.bfdcd3f2.js.map"
+    "main.fbcd4603.css.map": "/kevin/static/css/main.fbcd4603.css.map",
+    "main.36b5e3ae.js.map": "/kevin/static/js/main.36b5e3ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cf83d12.css",
-    "static/js/main.bfdcd3f2.js"
+    "static/css/main.fbcd4603.css",
+    "static/js/main.36b5e3ae.js"
   ]
 }
