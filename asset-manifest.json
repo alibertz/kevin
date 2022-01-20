@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.14d3bc30.css",
-    "main.js": "/static/js/main.eb489ba1.js",
+    "main.js": "/static/js/main.433b4a02.js",
     "static/media/artistwebsite.PNG": "/static/media/artistwebsite.8331e9647ffe5602a9ee.PNG",
     "static/media/bostonsdeals.PNG": "/static/media/bostonsdeals.45963826436e7b4c5759.PNG",
     "static/media/weatherapp.PNG": "/static/media/weatherapp.0c854f433621198b70fc.PNG",
@@ -17,10 +17,10 @@
     "static/media/expressjs-icon.png": "/static/media/expressjs-icon.967f19e53084fc186520.png",
     "index.html": "/index.html",
     "main.14d3bc30.css.map": "/static/css/main.14d3bc30.css.map",
-    "main.eb489ba1.js.map": "/static/js/main.eb489ba1.js.map"
+    "main.433b4a02.js.map": "/static/js/main.433b4a02.js.map"
   },
   "entrypoints": [
     "static/css/main.14d3bc30.css",
-    "static/js/main.eb489ba1.js"
+    "static/js/main.433b4a02.js"
   ]
 }
